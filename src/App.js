@@ -5,7 +5,7 @@ function App(props) {
   return (
     <div>
       <Main />
-      <Section4></Section4>
+      <Section4/>
     </div>
   );
 }
