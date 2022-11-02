@@ -1,0 +1,25 @@
+
+.grid_container{
+    background-color:#6C4AB6;
+    height:100%;
+   width : 100%!important
+}
+
+.griditem2_child1{
+   height: 300px;
+   width: 100%;
+  
+position: relative;
+left:0px
+
+}
+.child1_grid{
+    height: 200px;
+    width:380px;
+    border: 2px solid rgb(127, 125, 125);
+    border-radius: 20px;
+    position: relative;
+    left: 10px;
+    top: 30px;
+   
+}
