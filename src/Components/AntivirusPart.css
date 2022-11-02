@@ -1,0 +1,99 @@
+
+.main-content{
+    padding:1rem;
+}
+.icon-flex{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+.icon-flex-2{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+    margin-right: -1rem;
+    margin-left: 1rem;
+}
+
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+#para{
+    margin-bottom: 2rem;
+}
+
+.first-box {
+    text-align: center;
+    padding: 1rem;
+    background: white;
+    margin: auto;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+.first-box img{
+    width: 100%;
+
+}
+
+.second-box{
+    background-color: #F7F5F2;
+    padding: 1rem;
+}
+
+.outside-box{
+    background-color: #DFDFDE;
+    padding: 2rem 2rem 0rem 2rem;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+
+.btn-t{
+    background-color: blueviolet;
+    color: white;
+    margin: 1rem;
+}
+
+.t-icons{
+    background-color: lightgrey;
+    border-radius: 2rem;
+    padding: 0.5rem;
+    color:blueviolet;
+}
+
+.second-p1{
+    font-size: larger;
+    color: black;
+    font-weight: 700;
+    margin: 1rem;
+}
+
+.second-p2{
+    color: grey;
+    font-size: medium;
+}
+
+#heading{
+    font-size: small;
+    color: darkviolet;
+    font-weight: 600;
+    margin-top: 2rem;
+}
+
+#heading-2{
+    font-size: x-large;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.cards-list{
+    height: 50vh;
+}
+
+.main-cards{
+    display: flex;
+    flex-wrap: wrap;
+}
