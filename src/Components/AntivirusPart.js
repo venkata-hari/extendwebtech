@@ -9,7 +9,7 @@ import SecurityIcon from '@mui/icons-material/Security';
 import ReportProblemIcon from '@mui/icons-material/ReportProblem';
 import './AntivirusPart.css';
 
-export default function Content(){      
+export default function AntivirusPart(){      
 
     return(
     <Grid container className='main-content'>
