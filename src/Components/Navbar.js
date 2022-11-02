@@ -11,7 +11,7 @@ function App() {
    <div style={{marginLeft:"2%"}}>Product</div>
    <div className='mx-3'>Solutions</div>
    <div>Encrypation</div>
-   <div className='mx-3'>Management</div>
+   <div className='mx-3'>janaki</div>
    </section>
    <section className='d-flex'>
     <div>log in</div>
