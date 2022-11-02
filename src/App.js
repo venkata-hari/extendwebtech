@@ -1,9 +1,11 @@
 import React from 'react';
 import Main from './Components/Main'
+import Section4 from './Components/Section4';
 function App(props) {
   return (
     <div>
-      <Main/>
+      <Main />
+      <Section4></Section4>
     </div>
   );
 }
